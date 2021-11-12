@@ -1,6 +1,6 @@
 # COMP3335-Audi and Monitor
 
-Hope to help you
+For auditing and monitoring
 
 ## Learning Objective
 

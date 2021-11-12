@@ -4,6 +4,12 @@
   "difficulty": "Beginner",
   "time": "25 minutes",
   "details": {
+    "assets": {
+      "host01": [
+          {"file": "*",
+           "target": "/root"}
+      ]
+  },
     "steps": [
       {
         "title": "Step 1 - Check log",
@@ -34,7 +40,11 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "terminal",
+    "uieditorpath": "/root",
+    "files": [
+      "docker-compose.yml"
+  ]
   },
   "backend": {
     "imageid": "ubuntu:2004"
