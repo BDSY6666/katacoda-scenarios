@@ -2,11 +2,11 @@
   This plugin include lots of functions, like ip blcoking ,Malware scanning , encrypted Backup etc.
   
   
-![Step Logo](./aassets/Step2_11.png) 
+![Step Logo](./assets/Step2_11.png) 
 
 2.First login to wordpress and search miniOrange in plugin
 
-![Step12 Logo](./aassets/Step2_12.png)
+![Step12 Logo](./assets/Step2_12.png)
 
 3.
   
