@@ -1,4 +1,4 @@
-1.In order to monitor the website , <pre>"miniOrange"</pre> is suggested to help you.
+1.In order to monitor the website , <pre><code class="miniOrange"></code></pre> is suggested to help you.
   This plugin include lots of functions, like ip blcoking ,Malware scanning , encrypted Backup etc.
   
   
