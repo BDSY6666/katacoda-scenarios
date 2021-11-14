@@ -12,7 +12,7 @@
   },
     "steps": [
       {
-        "title": "Step 1 - Check log",
+        "title": "Check log",
         "text": "step1.md"
       },
       {
