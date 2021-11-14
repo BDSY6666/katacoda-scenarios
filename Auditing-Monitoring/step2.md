@@ -1,4 +1,4 @@
-1.In order to monitor the website , <pre><code class="miniOrange"></code></pre> is suggested to help you.
+1.In order to monitor the website , <pre><"miniOrange"></pre> is suggested to help you.
   This plugin include lots of functions, like ip blcoking ,Malware scanning , encrypted Backup etc.
   
   
@@ -6,7 +6,7 @@
 
 2.First login to wordpress and search miniOrange in plugin
 
-![Step12 Logo](./assets/Step2_12.png)
+![A Logo](./assets/Step2_12.png)
 
 3.
   
