@@ -7,5 +7,5 @@ Revision
 (*) Correct
 ( ) Incorrect
 
->>Q3: Enter the command to check docker's log<<
+>>Q3: Enter the command which can check docker's log<<
 =~= docker logs
