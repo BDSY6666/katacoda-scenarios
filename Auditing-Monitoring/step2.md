@@ -11,4 +11,7 @@
   Let's search miniOrange in plugin.
   
 ![B Logo](./assets/Step2_13.png)
+
+
+(Additionally, remember to update the software and plugins to ensure the security and gain new features !!!)
   

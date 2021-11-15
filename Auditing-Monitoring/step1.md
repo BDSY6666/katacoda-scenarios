@@ -13,5 +13,10 @@
 
 `docker logs`{{copy}} 
 
+Quick test
+>>Q1: Single Choice , docker-compose file can help install the application quickly ?<<
+(*) Correct
+( ) Incorrect
+
 
 
