@@ -1,8 +1,8 @@
-1. In order to edit the website , login and install wordpress .
+1.In order to edit the website , login and install wordpress .
   
 ![Step Logo](./assets/Step2_11.png) 
 
-2. Login to wordpress 
+2.Login to wordpress 
 
 ![A Logo](./assets/Step2_12.png)
 
