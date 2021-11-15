@@ -13,12 +13,12 @@
 
 `docker logs`{{copy}} 
 
-Quick test
->>Q1: Single Choice docker-compose file can help install the application quickly ?<<
-(*) Correct
-( ) Incorrect
+5.You can shutdown the compose file by the command below
 
->>Q4: Single Choice <<
+`docker-compose down -v`{{execute}}
+
+Quick test
+>>Q1: Docker-compose file can help install the application quickly ?<<
 (*) Correct
 ( ) Incorrect
 
